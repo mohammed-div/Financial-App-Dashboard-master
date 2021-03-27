@@ -1,0 +1,5 @@
+C:\Users\dell\Desktop\Financial-App-Dashboard-master\Finacial Apps Dashboard\obj\Debug\Finacial Apps Dashboard.vbprojAssemblyReference.cache
+C:\Users\dell\Desktop\Financial-App-Dashboard-master\Finacial Apps Dashboard\obj\Debug\Finacial_Apps_Dashboard.Form1.resources
+C:\Users\dell\Desktop\Financial-App-Dashboard-master\Finacial Apps Dashboard\obj\Debug\Finacial Apps Dashboard.vbproj.GenerateResource.cache
+C:\Users\dell\Desktop\Financial-App-Dashboard-master\Finacial Apps Dashboard\obj\Debug\Finacial Apps Dashboard.exe
+C:\Users\dell\Desktop\Financial-App-Dashboard-master\Finacial Apps Dashboard\obj\Debug\Finacial Apps Dashboard.pdb
